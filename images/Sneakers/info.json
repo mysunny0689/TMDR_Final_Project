@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 122,
+    "height" : 152
+  }, {
+    "width" : 243,
+    "height" : 304
+  }, {
+    "width" : 486,
+    "height" : 607
+  }, {
+    "width" : 972,
+    "height" : 1214
+  }, {
+    "width" : 1943,
+    "height" : 2428
+  }, {
+    "width" : 3885,
+    "height" : 4856
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3885,
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Sneakers",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4856
+}
