@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 140,
+    "height" : 210
+  }, {
+    "width" : 280,
+    "height" : 420
+  }, {
+    "width" : 560,
+    "height" : 840
+  }, {
+    "width" : 1120,
+    "height" : 1680
+  }, {
+    "width" : 2240,
+    "height" : 3360
+  }, {
+    "width" : 4480,
+    "height" : 6720
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4480,
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Sandles",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6720
+}
