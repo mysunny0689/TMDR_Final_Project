@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Trousers.json",
+  "@type" : "sc:Manifest",
+  "label" : "Fashion_Final_Project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Trousers ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The image from https://unsplash.com/\n",
+  "sequences" : [ {
+    "@id" : "http://84812864-8a71-4145-9091-8d53f236fabc",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://117d0a05-1ba7-4f04-aa90-f608821154b3",
+      "@type" : "sc:Canvas",
+      "label" : "Trousers ",
+      "height" : 4861,
+      "width" : 3646,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0326bbc2-cc4b-4d55-8289-56819ae66d62",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Trousers/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Trousers",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4861,
+          "width" : 3646
+        },
+        "on" : "http://117d0a05-1ba7-4f04-aa90-f608821154b3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
