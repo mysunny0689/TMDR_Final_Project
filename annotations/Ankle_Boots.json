@@ -1,0 +1,59 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/annotations/Ankle_Boots.json",
+  "@type" : "sc:Manifest",
+  "label" : "Ankle_boots",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Fashion_MNIST_Project",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://cfa8e668-8a9e-40b4-8bfa-41288dff4931",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ea0022eb-2d8e-4edd-9194-eb4a10918df7",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://42a984c2-4e77-448e-be03-89a391895349",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://ea0022eb-2d8e-4edd-9194-eb4a10918df7"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/196462717/bb88fe0970123f0be88273eea00d084b.json",
+        "label" : "Annotations for canvas Empty canvas"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/196462717/3e5b9e6b1e4bc247cccadc8dec7c0e4a/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
