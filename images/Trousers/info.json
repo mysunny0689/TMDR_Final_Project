@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 114,
+    "height" : 152
+  }, {
+    "width" : 228,
+    "height" : 304
+  }, {
+    "width" : 456,
+    "height" : 608
+  }, {
+    "width" : 912,
+    "height" : 1216
+  }, {
+    "width" : 1823,
+    "height" : 2431
+  }, {
+    "width" : 3646,
+    "height" : 4861
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3646,
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Trousers",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4861
+}
