@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Bag.json",
     "label" : "Fashion and Apparel "
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Sneakers.json",
+    "label" : "Fashion_Final_Project"
   } ]
 }
