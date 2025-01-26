@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Sneakers.json",
     "label" : "Fashion_Final_Project"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Shirt.json",
+    "label" : "Fashion_Final_Project"
   } ]
 }
