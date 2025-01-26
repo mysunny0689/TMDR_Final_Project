@@ -7,5 +7,87 @@
             "All images loaded in mysunny0689/TMDR_Final_Project project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Ankle_boots"
+                ]
+            },
+            "height": 2000,
+            "width": 3000,
+            "items": [
+                {
+                    "id": "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 94,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3000,
+                                        "@id": "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
