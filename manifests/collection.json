@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Pullover.json",
     "label" : "Fashion_Final_Project"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Trousers.json",
+    "label" : "Fashion_Final_Project"
   } ]
 }
