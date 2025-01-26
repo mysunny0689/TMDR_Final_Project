@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Ankle_boots.json",
     "label" : "Ankle_boots"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Bag.json",
+    "label" : "Fashion and Apparel "
   } ]
 }
