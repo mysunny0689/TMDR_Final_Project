@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://mysunny0689.github.io/TMDR_Final_Project/annotations/Ankle_Boots.json" ],
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/annotations/collection.json",
+  "label" : "All annotations loaded in mysunny0689/TMDR_Final_Project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
