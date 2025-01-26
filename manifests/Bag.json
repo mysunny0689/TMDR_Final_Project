@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Bag.json",
+  "@type" : "sc:Manifest",
+  "label" : "Fashion and Apparel ",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Fashion_MNIST_Project",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "images from: www.unsplash.com",
+  "sequences" : [ {
+    "@id" : "http://cfa8e668-8a9e-40b4-8bfa-41288dff4931",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ea0022eb-2d8e-4edd-9194-eb4a10918df7",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://42a984c2-4e77-448e-be03-89a391895349",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Ankle_boots",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://ea0022eb-2d8e-4edd-9194-eb4a10918df7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c2949c0d-8612-4b34-a9e4-8ab86732c068",
+      "@type" : "sc:Canvas",
+      "label" : "Bag",
+      "height" : 4608,
+      "width" : 3072,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9196a56e-4d21-4830-8c38-afc0d7e06a5d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Bag/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Bag",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4608,
+          "width" : 3072
+        },
+        "on" : "http://c2949c0d-8612-4b34-a9e4-8ab86732c068"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
