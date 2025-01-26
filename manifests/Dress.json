@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Dress.json",
+  "@type" : "sc:Manifest",
+  "label" : "Fashion_Final_Project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Dress",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The image from https://unsplash.com/",
+  "sequences" : [ {
+    "@id" : "http://dfd6713c-76bb-4b0d-b595-29c86b53a7aa",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4aefe508-0c8e-44d6-8043-c01295b06ac1",
+      "@type" : "sc:Canvas",
+      "label" : "Dress ",
+      "height" : 4148,
+      "width" : 3289,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b304b0b4-8470-499f-acc1-63801b718714",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Dress/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Dress",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4148,
+          "width" : 3289
+        },
+        "on" : "http://4aefe508-0c8e-44d6-8043-c01295b06ac1"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
