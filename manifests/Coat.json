@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Coat.json",
+  "@type" : "sc:Manifest",
+  "label" : "Fashion_Final_Project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Coat",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The image from https://unsplash.com/",
+  "sequences" : [ {
+    "@id" : "http://69ccd67e-a8ed-4d7e-957e-5a648ca942ed",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://8ddacd22-2b56-4b46-93c1-a9ca47228e1b",
+      "@type" : "sc:Canvas",
+      "label" : "Coat",
+      "height" : 6000,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://101b7755-a003-4208-afd9-079200f3ff14",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Coat/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Coat",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6000,
+          "width" : 4000
+        },
+        "on" : "http://8ddacd22-2b56-4b46-93c1-a9ca47228e1b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
