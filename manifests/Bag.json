@@ -5,27 +5,27 @@
   "label" : "Fashion_Final_Project",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "bag",
+    "@value" : "Bag",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "The image from https://unsplash.com/",
   "sequences" : [ {
-    "@id" : "http://99ba64fa-3b09-4fdf-8073-9f68cef7593b",
+    "@id" : "http://69b7f0bb-defd-4ce2-90c2-9d8a2fb72111",
     "@type" : "sc:Sequence",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
     } ],
     "canvases" : [ {
-      "@id" : "http://23e85407-6071-43d6-ae65-dafe18edb73d",
+      "@id" : "http://faadacac-640e-4384-921f-e5234a3da998",
       "@type" : "sc:Canvas",
       "label" : "Bag",
       "height" : 4608,
       "width" : 3072,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://53f42500-caa3-454a-a45d-26ed68a2f19d",
+        "@id" : "http://0afbfd6d-d554-4f32-a10a-3e7906ff9772",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -40,7 +40,7 @@
           "height" : 4608,
           "width" : 3072
         },
-        "on" : "http://23e85407-6071-43d6-ae65-dafe18edb73d"
+        "on" : "http://faadacac-640e-4384-921f-e5234a3da998"
       } ],
       "related" : ""
     } ]
