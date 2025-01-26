@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 103,
+    "height" : 130
+  }, {
+    "width" : 206,
+    "height" : 260
+  }, {
+    "width" : 412,
+    "height" : 519
+  }, {
+    "width" : 823,
+    "height" : 1037
+  }, {
+    "width" : 1645,
+    "height" : 2074
+  }, {
+    "width" : 3289,
+    "height" : 4148
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3289,
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Dress",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4148
+}
