@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/manifests/Sneakers.json",
+  "@type" : "sc:Manifest",
+  "label" : "Fashion_Final_Project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Sneakers",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The image from https://unsplash.com/",
+  "sequences" : [ {
+    "@id" : "http://b09fe806-a28c-48a6-97f8-cb7fd0b2b123",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://78e42c09-6b33-42ba-af72-e9cb669d70b2",
+      "@type" : "sc:Canvas",
+      "label" : "Sneakers",
+      "height" : 4856,
+      "width" : 3885,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3931d074-957c-498b-afce-343ed4a85508",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Sneakers/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mysunny0689.github.io/TMDR_Final_Project/images/Sneakers",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4856,
+          "width" : 3885
+        },
+        "on" : "http://78e42c09-6b33-42ba-af72-e9cb669d70b2"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
